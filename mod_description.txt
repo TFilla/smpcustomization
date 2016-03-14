@@ -1,0 +1,8 @@
+﻿EN: This is customization pack for those who like to customize some of the mod's features
+
+TR: Bu mod resimleri gibi bazı mod özelliklerini değiştirmek için kullanılabilir.
+
+This file should be "above" the English Addon AND original SiSL's Mega Pack
+
+Please refer to our Facebook page:
+https://www.facebook.com/sislsmegapack/
