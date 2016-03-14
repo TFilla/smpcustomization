@@ -1,8 +1,6 @@
-# sislsmegapackcustomization
-
-SiSL's Mega Pack Customization
+#SiSL's Mega Pack Customization
 ----------------------------------------------------
-Version: 2.0
+#Version: 2.0
 
 DISCLAIMER: YOU MAY NOT USE ITEMS IN OTHER MODS, SELL OR REUPLOAD. 
 ONLY ALLOWED MODIFICATIONS ARE FOR PRIVATE USE ONLY AND ONLY IN CUSTOMIZATION FILE. 
